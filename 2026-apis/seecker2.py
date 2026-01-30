@@ -15,7 +15,7 @@ class SistemaSeekerV6(ctk.CTk):
 
         # --- Configuración de Conexión ---
         self.api_url = "https://seeker-v6.com/personas/apiPremium/dni"
-        self.token = "sk_live_4ba82b3b006ae16b6e305a1a09781ce908b2145ac2380bd3"
+        self.token = "TOQUEN AQUI PAPU"
 
         self.init_ui()
 
@@ -133,3 +133,4 @@ class SistemaSeekerV6(ctk.CTk):
 if __name__ == "__main__":
     app = SistemaSeekerV6()
     app.mainloop()
+
